@@ -1,0 +1,7 @@
+linux-hwe-5.8 (5.8.0-1.0~upboard1) focal; urgency=medium
+
+  * First release
+  * Add UP's patches
+  * Based on Ubuntu version: linux-hwe-5.8: 5.4.8-45.51~20.04.1
+
+ --  AAEON <aaeon_cm@aaeon.com>  Tue, 15 Mar 2021 07:32:39 +0000
